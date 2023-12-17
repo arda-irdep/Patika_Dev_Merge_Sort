@@ -1,4 +1,4 @@
-# Patika_Dev_Sorting_Algorithms
+# Patika_Dev_Merge_Sort
 Patika.dev Data Structures and Algorithms course Merge Sort assignment
 
 Proje 2
